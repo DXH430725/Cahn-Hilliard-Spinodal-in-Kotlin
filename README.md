@@ -4,3 +4,5 @@ In this project, we consider the spinodal decomposition in a virtual A-B alloy. 
 
 Objective:
 The main objective is to reprogram the existing spinodal decomposition code, originally written in another programming language, into Kotlin. Additionally, we aim to develop a mobile application that can simulate the spinodal decomposition process, making it accessible on mobile devices.
+
+If you don't want to build from begining, just download "app-debug-androidTest.apk" in main-branch and run.
